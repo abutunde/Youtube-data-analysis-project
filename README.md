@@ -12,7 +12,7 @@ This project involves a comprehensive analysis of YouTube song data using Power 
 - **Positive Correlation:** There is a strong positive correlation between like counts and comment counts, suggesting that videos with more likes tend to have more comments, reflecting higher engagement.
 
 ### Top Tags
-- **Engaging Tags:** The most engaging tags include 'hindi songs', 'latest songs', 'vaaste lyrics', 'Dilbar', and 'High rated gabru'.
+- **Engaging Tags:** The most engaging tags include 'Hindi songs', 'latest songs', 'vaaste lyrics', 'Dilbar', and 'High rated gabru'.
 
 ### Total Engagement Metrics
 - **Views:** 231 billion total views
@@ -26,7 +26,7 @@ This project involves a comprehensive analysis of YouTube song data using Power 
 ### Factors Influencing Views
 - **High-Definition Videos:** HD videos significantly boost view counts, increasing views by over 12 million.
 - **Monthly Trends:** 
-  - May had the highest views at 36.6 billion, accounting for 15.87% of total views, with a 183.72% increase compared to March.
+  - May had the highest number of views at 36.6 billion, accounting for 15.87% of total views, with a 183.72% increase compared to March.
 
 ## Recommendations for Content Creators and Marketers
 
@@ -35,7 +35,7 @@ This project involves a comprehensive analysis of YouTube song data using Power 
    - Target optimal video durations that align with audience preferences.
 
 2. **Leverage Popular Tags:**
-   - Use engaging tags such as 'hindi songs', 'latest songs', 'vaaste lyrics', 'Dilbar', and 'High rated gabru' to improve visibility and attract a larger audience.
+   - Use engaging tags such as 'Hindi songs', 'latest songs', 'vaaste lyrics', 'Dilbar', and 'High rated gabru' to improve visibility and attract a larger audience.
 
 3. **Promote Interaction:**
    - Actively encourage viewers to like and comment on videos to boost engagement.
